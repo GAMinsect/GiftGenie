@@ -23,7 +23,7 @@ Gift Genie is a full-stack AI-powered web application that generates thoughtful,
 
 ### **Backend**
 - **Node.js** & **Express** server.
-- **OpenAI Node.js SDK** configured to connect with the **Groq API** (Llama-3 models) for ultra-fast response times.
+- **OpenAI Node.js SDK** configured to connect with the **Groq API**.
 - **ES Modules (`import/export`)** structure.
 
 ---
