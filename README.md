@@ -45,7 +45,7 @@ Gift Genie is a full-stack AI-powered web application that generates thoughtful,
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/GAMinsect/GiftGenie.git](https://github.com/GAMinsect/GiftGenie.git)
+git clone https://github.com/GAMinsect/GiftGenie.git
 cd GiftGenie
 ```
 ### 2. Install dependencies
