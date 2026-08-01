@@ -37,9 +37,10 @@ async function handleGiftRequest(e) {
     })
     
     // TODO: Step 5 — parse response and extract giftSuggestions
-    const giftSuggestions = (await response.json()).msg;
+    const giftSuggestions = (await response.json()).giftSuggestions;
 
     // Convert Markdown to HTML p 
+    console.log("giftSuggestions", giftSuggestions)
     const html = marked.parse(giftSuggestions);
 
     // Sanitize the HTML to prevent XSS attacks
