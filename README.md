@@ -5,7 +5,7 @@ Gift Genie is a full-stack AI-powered web application that generates thoughtful,
 🌐 **Live Demo:** [https://giftgenie-i0ga.onrender.com](https://giftgenie-i0ga.onrender.com)
 
 ⚠️ Note: The web search feature, burns through the free token very quickly, meaning that after doing
-one search, you'll have to wait a couple of minutes
+one search, you'll have to wait a couple of minutes. Also the free tier of render is used, meaning that you could wait up to a minute for the project to start
 
 ---
 
