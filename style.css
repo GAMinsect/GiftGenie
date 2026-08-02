@@ -40,6 +40,10 @@ body {
   overflow-x: hidden;
 }
 
+a{
+  color: var(--accent-primary);
+  text-decoration: none;
+}
 /* 
    Layout
 */
@@ -94,7 +98,37 @@ h1 {
 .input-wrapper {
   width: 100%;
   display: flex;
+  flex-direction: column;
 }
+
+#web-search-icon {
+  width: 50px;
+  height: 50px;
+  margin-top: 10px;
+  border-radius: 100%;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--text-secondary);
+}
+
+i.fa-globe {
+  font-size: 42px;
+  color: var(--bg-primary);
+  border-radius: 100%;
+}
+
+i.fa-globe:hover,#web-search-icon:hover,i.fa-globe:focus,#web-search-icon:focus{
+  background-color: var(--text-primary);
+  cursor: pointer;
+}
+
+#web-search-icon.active, #web-search-icon.active i.fa-globe {
+  background-color: var(--accent-primary);
+  filter: drop-shadow(0 0 2px var(--accent-glow));
+}
+
 
 textarea {
   flex: 1;
