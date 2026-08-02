@@ -11,9 +11,12 @@ one search, you'll have to wait a couple of minutes. Also the free tier of rende
 
 ## 📽️ Demo Video
 
-*Add your screen recording or GIF here!*
+As explained above the web search quickly uses free token, this is seen in the response time, which can take up to 50 seconds.
+Conversely, without web search, results are much faster, usually under 10 seconds.
 
-[![Gift Genie Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+https://github.com/user-attachments/assets/6fb03f1a-a915-4d12-bfe6-4628a5ad2066
+
+
 
 ---
 
