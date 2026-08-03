@@ -63,7 +63,7 @@ npm install
 Create a .env file in the root directory:
 ```bash
 AI_KEY=your_groq_api_key_here
-AI_URL=[https://api.groq.com/openai/v1](https://api.groq.com/openai/v1) (I used groq, it also works with openai and operouter)
+AI_URL=https://api.groq.com/openai/v1 (I used groq, it also works with openai and operouter)
 AI_MODEL=openai/gpt-oss-120b (This is my choice you can chose whatever best suits your needs)
 ```
 ⚠️ Note: .env is listed in .gitignore and should never be committed to Git.
