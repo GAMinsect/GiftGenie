@@ -89,7 +89,7 @@ Bash
 npm run build
 npm start
 ```
-Then visit http://localhost:3001 in your browser.
+Then visit http://localhost:5173 in your browser.
 
 📂 Project Structure
 ```bash
